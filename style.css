@@ -32,3 +32,9 @@ div{
    height: 20rem;
    margin-left: 10rem;
 }
+
+p{
+    color: blueviolet;
+    font-size: 16;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}

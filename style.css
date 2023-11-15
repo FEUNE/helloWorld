@@ -32,3 +32,12 @@ div{
    height: 20rem;
    margin-left: 10rem;
 }
+
+#img3{
+    width: 2rem;
+   right: 1rem;
+   height: 3rem;
+   position: static;
+   border:1px solid blue;
+   top: 12rem;
+}
